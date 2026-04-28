@@ -1,2 +1,2 @@
-# the-forge-protocol
-Building a new ways for creative commerce and experimentation across various emerging market communities.
+# The Forge Protocol
+Building  new ways for creative commerce and experimentation across various emerging market communities.
