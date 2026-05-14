@@ -1,7 +1,3 @@
-Here is the rewritten version, with the tone shifted from declarative to exploratory ~ curious, open-handed, and honest about the fact that this is a working hypothesis rather than a finished system:
-
-***
-
 # The Forge Protocol
 **Toward a Digital Society of Wealthy Creative Sovereigns**
 
